@@ -12,3 +12,6 @@ This is prepared as part of MIDS W207's final project at University of Californi
 8. W207_Project_Retrieval_and_Ranking_TFRS: Notebook containing auto feature retrieval and collaborative ranking using TenserFlow package 
 9. kaggle.json: json file containing output from TFRS package
 10. targets.csv: Target variable file exported as csv from Feature Engineering notebook
+
+
+We attempted to upload the features.csv file but github refused given its size of 4.3 GB.
